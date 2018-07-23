@@ -13,6 +13,8 @@ public class JekChk {
 		driver = new ChromeDriver();
 		driver.get("https://www.google.com/");
 		System.out.println("test case completed");
+		System.out.println("test case is  completed");
+		
 	}
 
 }
